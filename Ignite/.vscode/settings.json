@@ -1,0 +1,9 @@
+{
+    "go.autocompleteUnimportedPackages": true,
+    "go.enableCodeLens": {
+        "references": true
+    },
+    "go.gocodeAutoBuild": true,
+    "go.gotoSymbol.includeImports": true,
+    "go.toolsManagement.autoUpdate": true
+}
